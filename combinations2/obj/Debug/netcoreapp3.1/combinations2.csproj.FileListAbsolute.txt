@@ -1,0 +1,13 @@
+C:\Users\Go6o\source\repos\SoftUni\combinations2\bin\Debug\netcoreapp3.1\combinations2.exe
+C:\Users\Go6o\source\repos\SoftUni\combinations2\bin\Debug\netcoreapp3.1\combinations2.deps.json
+C:\Users\Go6o\source\repos\SoftUni\combinations2\bin\Debug\netcoreapp3.1\combinations2.runtimeconfig.json
+C:\Users\Go6o\source\repos\SoftUni\combinations2\bin\Debug\netcoreapp3.1\combinations2.runtimeconfig.dev.json
+C:\Users\Go6o\source\repos\SoftUni\combinations2\bin\Debug\netcoreapp3.1\combinations2.dll
+C:\Users\Go6o\source\repos\SoftUni\combinations2\bin\Debug\netcoreapp3.1\combinations2.pdb
+C:\Users\Go6o\source\repos\SoftUni\combinations2\obj\Debug\netcoreapp3.1\combinations2.csprojAssemblyReference.cache
+C:\Users\Go6o\source\repos\SoftUni\combinations2\obj\Debug\netcoreapp3.1\combinations2.AssemblyInfoInputs.cache
+C:\Users\Go6o\source\repos\SoftUni\combinations2\obj\Debug\netcoreapp3.1\combinations2.AssemblyInfo.cs
+C:\Users\Go6o\source\repos\SoftUni\combinations2\obj\Debug\netcoreapp3.1\combinations2.csproj.CoreCompileInputs.cache
+C:\Users\Go6o\source\repos\SoftUni\combinations2\obj\Debug\netcoreapp3.1\combinations2.dll
+C:\Users\Go6o\source\repos\SoftUni\combinations2\obj\Debug\netcoreapp3.1\combinations2.pdb
+C:\Users\Go6o\source\repos\SoftUni\combinations2\obj\Debug\netcoreapp3.1\combinations2.genruntimeconfig.cache
